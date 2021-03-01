@@ -1,7 +1,9 @@
-# Hi there 👋
-I'm from Malaysia. Nice to meet you.
+# Hello there 👋
+I'm currently working at @JeekieHost. Live in Malaysia.
 
 ## About Me
-- 🌱 I’m currently learning Javascript, Typescript, Node.js, Golang, PHP, Laravel, and React.
+- Currently learning Javascript, Typescript, Node.js, Golang, PHP, Laravel, and React.
 
 ## Languages and Tools
+
+![Stats](https://github-readme-stats.vercel.app/api?username=xcgc&show_icons=true)
