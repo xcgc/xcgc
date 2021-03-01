@@ -7,4 +7,10 @@
 - 🌱 Currently learning Javascript, Typescript, Node.js, Golang, PHP, Laravel, and React.
 
 ## Languages and Tools
-<img src="./assets/javascript.png" width="25" height="25">
+<img src="./assets/javascript.png" width="30" height="30">
+<img src="./assets/typescript.png" width="30" height="30">
+<img src="./assets/nodejs.png" width="30" height="30">
+<img src="./assets/golang.png" width="30" height="30">
+<img src="./assets/php.png" width="30" height="30">
+<img src="./assets/laravel.png" width="30" height="30">
+<img src="./assets/react.png" width="30" height="30">
