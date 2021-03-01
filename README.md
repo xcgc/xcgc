@@ -7,4 +7,4 @@
 - 🌱 Currently learning Javascript, Typescript, Node.js, Golang, PHP, Laravel, and React.
 
 ## Languages and Tools
-![](./assets/javascript.png){:width="25px"}
+<img src="./assets/javascript.png" width="25" height="25">
