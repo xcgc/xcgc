@@ -1,4 +1,4 @@
-![](https://images.unsplash.com/photo-1516616370751-86d6bd8b0651?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1250&h=400)
+![](https://images.unsplash.com/photo-1516616370751-86d6bd8b0651?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1150&h=400)
 ![](https://github-readme-stats.vercel.app/api?username=xcgc&theme=react&show_icons=true&hide_rank=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xcgc&theme=react&layout=compact)
 
